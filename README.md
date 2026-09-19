@@ -1,5 +1,9 @@
 ## Oii sou a Juana de Oliveira Franciscão, estudante do Técnico em Desenvolvimento de Sistema 👋
 
+#Sou uma estudante da escola Sesi Senai de Joinville com curso técnico integrado na área de Desenvolvimento de Sistemas. Me interesso pelas áreas de Computação e Engenharia e busco constantemente desenvolver meus conhecimentos e habilidades nessas áreas. Tenho interesse em programação, desenvolvimento de sistemas, tecnologia e resolução de problemas.
+Durante minha formação, venho adquirindo experiência por meio de projetos práticos, trabalho em equipe e desenvolvimento de soluções tecnológicas. Tenho como objetivo continuar meus estudos no ensino superior, com interesse em instituições como a Universidade Federal de Santa Catarina (UFSC) e a Universidade do Estado de Santa Catarina (UDESC), especialmente em cursos relacionados à Computação e Engenharia.
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
