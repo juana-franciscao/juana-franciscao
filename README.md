@@ -11,7 +11,8 @@ Durante minha formação, venho adquirindo experiência por meio de projetos pr�
    <img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256">
 </div>
 
-<div> 
+
+<div style="display: inline_block"><br>
 
   <a href = "juana_franciscao.sesisenai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juana-franciscao?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
